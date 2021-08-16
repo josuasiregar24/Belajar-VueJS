@@ -1,0 +1,131 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "T-01",
+      "nama": "Red Basic T-Shirt",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "red.png"
+    },
+    {
+      "id": 2,
+      "kode": "T-02",
+      "nama": "Blue Basic T-Shirt",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "blue.png"
+    },
+    {
+      "id": 3,
+      "kode": "T-03",
+      "nama": "Grey Basic T-Shirt",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "grey.png"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "T-01",
+      "nama": "Red Basic T-Shirt",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "red.png"
+    },
+    {
+      "id": 2,
+      "kode": "T-02",
+      "nama": "Blue Basic T-Shirt",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "blue.png"
+    },
+    {
+      "id": 3,
+      "kode": "T-03",
+      "nama": "Grey Basic T-Shirt",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "grey.png"
+    },
+    {
+      "id": 4,
+      "kode": "T-04",
+      "nama": "Maroon Basic T-Shirt",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "maroon.png"
+    },
+    {
+      "id": 5,
+      "kode": "T-05",
+      "nama": "Green Basic T-Shirt",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "green.png"
+    },
+    {
+      "id": 6,
+      "kode": "T-06",
+      "nama": "Army Basic T-Shirt",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "army.png"
+    },
+    {
+      "id": 7,
+      "kode": "T-07",
+      "nama": "Yellow Basic T-Shirt",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "yellow.png"
+    },
+    {
+      "id": 8,
+      "kode": "T-08",
+      "nama": "Pink Basic T-Shirt",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "pink.png"
+    },
+    {
+      "id": 9,
+      "kode": "T-09",
+      "nama": "Brown Basic T-Shirt",
+      "harga": 40000,
+      "is_ready": true,
+      "gambar": "brown.png"
+    }
+  ],
+  "carts": [
+    {
+      "jumlah_pesan": "4",
+      "ukuran": "4L",
+      "products": {
+        "id": 1,
+        "kode": "T-01",
+        "nama": "Red Basic T-Shirt",
+        "harga": 40000,
+        "is_ready": true,
+        "gambar": "red.png"
+      },
+      "id": 1
+    },
+    {
+      "jumlah_pesan": "5",
+      "ukuran": "M",
+      "products": {
+        "id": 1,
+        "kode": "T-01",
+        "nama": "Red Basic T-Shirt",
+        "harga": 40000,
+        "is_ready": true,
+        "gambar": "red.png"
+      },
+      "id": 2
+    }
+  ],
+  "orders": []
+}
